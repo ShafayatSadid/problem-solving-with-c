@@ -7,6 +7,7 @@ int main()
 
     int freq[m + 1];
 
+    // lksajdflksadfj
     for (int i = 0; i <= m; i++)
     {
         freq[i] = 0;
